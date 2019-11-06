@@ -3,6 +3,8 @@
 }
 
 .box{
-  height: 12.5vh;
+  height: 11vh;
   border: 1px solid black;
+  background: white;
 }
+
