@@ -1,3 +1,8 @@
 .pads{
   padding: 4rem 0;
 }
+
+.box{
+  height: 12.5vh;
+  border: 1px solid black;
+}
