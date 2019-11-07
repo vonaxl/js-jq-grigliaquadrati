@@ -7,7 +7,6 @@ $( document ).ready(function() {
             $(this).css("background", "red");
             x++;
             document.getElementById('scoreRed').innerHTML = x;
-            console.log(x);
             
         }else if (!$(this).hasClass("clicked")) {
             $(this).addClass("clicked");
